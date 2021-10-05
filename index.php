@@ -66,5 +66,4 @@ carrega apenas um usuário
 $root= new Usuario();
 $root ->loadById(2);
 */
-=======
 ?>
